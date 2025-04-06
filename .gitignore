@@ -1,0 +1,16 @@
+# Ignore Visual Studio folder
+.vs/
+*.user
+*.suo
+
+# Ignore build folders
+bin/
+obj/
+
+# Ignore logs and local settings
+*.log
+*.db
+*.cache
+
+# Ignore publish output
+publish/
